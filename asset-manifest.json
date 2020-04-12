@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/pictionary/static/css/main.d236611b.chunk.css",
-    "main.js": "/pictionary/static/js/main.bc5b32af.chunk.js",
-    "main.js.map": "/pictionary/static/js/main.bc5b32af.chunk.js.map",
+    "main.css": "/pictionary/static/css/main.deda0eef.chunk.css",
+    "main.js": "/pictionary/static/js/main.b30fa03a.chunk.js",
+    "main.js.map": "/pictionary/static/js/main.b30fa03a.chunk.js.map",
     "runtime-main.js": "/pictionary/static/js/runtime-main.3e06fb15.js",
     "runtime-main.js.map": "/pictionary/static/js/runtime-main.3e06fb15.js.map",
-    "static/js/2.3c9a5109.chunk.js": "/pictionary/static/js/2.3c9a5109.chunk.js",
-    "static/js/2.3c9a5109.chunk.js.map": "/pictionary/static/js/2.3c9a5109.chunk.js.map",
+    "static/js/2.12912f02.chunk.js": "/pictionary/static/js/2.12912f02.chunk.js",
+    "static/js/2.12912f02.chunk.js.map": "/pictionary/static/js/2.12912f02.chunk.js.map",
     "index.html": "/pictionary/index.html",
-    "precache-manifest.aa682b088c951a2a875ce835da0e1fa9.js": "/pictionary/precache-manifest.aa682b088c951a2a875ce835da0e1fa9.js",
+    "precache-manifest.0e4e16e027b99cd6a4959d0e9a04bffa.js": "/pictionary/precache-manifest.0e4e16e027b99cd6a4959d0e9a04bffa.js",
     "service-worker.js": "/pictionary/service-worker.js",
-    "static/css/main.d236611b.chunk.css.map": "/pictionary/static/css/main.d236611b.chunk.css.map",
-    "static/js/2.3c9a5109.chunk.js.LICENSE.txt": "/pictionary/static/js/2.3c9a5109.chunk.js.LICENSE.txt",
+    "static/css/main.deda0eef.chunk.css.map": "/pictionary/static/css/main.deda0eef.chunk.css.map",
+    "static/js/2.12912f02.chunk.js.LICENSE.txt": "/pictionary/static/js/2.12912f02.chunk.js.LICENSE.txt",
     "static/media/card.styles.scss": "/pictionary/static/media/CardFront.8a50f1de.png",
-    "static/media/index.scss": "/pictionary/static/media/bg_containers.9d99ccdb.jpg"
+    "static/media/index.scss": "/pictionary/static/media/bg_containers.9d99ccdb.jpg",
+    "static/media/cofinanciado.png": "/pictionary/static/media/cofinanciado.55f17bd5.png",
+    "static/media/iefp.png": "/pictionary/static/media/iefp.5fc73c79.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3e06fb15.js",
-    "static/js/2.3c9a5109.chunk.js",
-    "static/css/main.d236611b.chunk.css",
-    "static/js/main.bc5b32af.chunk.js"
+    "static/js/2.12912f02.chunk.js",
+    "static/css/main.deda0eef.chunk.css",
+    "static/js/main.b30fa03a.chunk.js"
   ]
 }
