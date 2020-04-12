@@ -1,6 +1,7 @@
 import React from 'react';
 import { Component } from 'react';
 import { Card } from './components/card.component';
+import './components/button.styles.scss';
 import './App.scss';
 
 class App extends Component {
@@ -74,6 +75,17 @@ class App extends Component {
     return (
       <div className="App">
         <Card word={words[randomIndex]} />
+        <button
+          className="btn btn--green btn--animated"
+          onClick={e => {
+            const rndIndex = Math.floor(
+              Math.random() * this.state.words.length
+            );
+            this.setState({ randomIndex: rndIndex });
+          }}
+        >
+          Sortear palavra
+        </button>
       </div>
     );
   }
