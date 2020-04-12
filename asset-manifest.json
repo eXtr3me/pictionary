@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pictionary/static/css/main.5d85123f.chunk.css",
+    "main.js": "/pictionary/static/js/main.b17c54b7.chunk.js",
+    "main.js.map": "/pictionary/static/js/main.b17c54b7.chunk.js.map",
+    "runtime-main.js": "/pictionary/static/js/runtime-main.3e06fb15.js",
+    "runtime-main.js.map": "/pictionary/static/js/runtime-main.3e06fb15.js.map",
+    "static/js/2.3c9a5109.chunk.js": "/pictionary/static/js/2.3c9a5109.chunk.js",
+    "static/js/2.3c9a5109.chunk.js.map": "/pictionary/static/js/2.3c9a5109.chunk.js.map",
+    "index.html": "/pictionary/index.html",
+    "precache-manifest.ec1947848523319c7e26dbb03371f1f9.js": "/pictionary/precache-manifest.ec1947848523319c7e26dbb03371f1f9.js",
+    "service-worker.js": "/pictionary/service-worker.js",
+    "static/css/main.5d85123f.chunk.css.map": "/pictionary/static/css/main.5d85123f.chunk.css.map",
+    "static/js/2.3c9a5109.chunk.js.LICENSE.txt": "/pictionary/static/js/2.3c9a5109.chunk.js.LICENSE.txt",
+    "static/media/card.styles.scss": "/pictionary/static/media/CardFront.8a50f1de.png",
+    "static/media/index.scss": "/pictionary/static/media/bg_containers.9d99ccdb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e06fb15.js",
+    "static/js/2.3c9a5109.chunk.js",
+    "static/css/main.5d85123f.chunk.css",
+    "static/js/main.b17c54b7.chunk.js"
+  ]
+}
